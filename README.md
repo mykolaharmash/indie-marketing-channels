@@ -20,10 +20,7 @@ David Pierce from The Verge has a great weekly newsletter called [**Installer**]
 
 ### IndieCatalog
 
-[Indie Catalog](https://indiecatalog.app) is a collection of apps created by indie devs and you can submit your app to be included.
-
-### Tiny Startups
-https://www.tinystartups.com
+[Indie Catalog](https://indiecatalog.app) is a collection of apps created by indie devs run by [Filip Němeček](https://nemecek.be). You can submit your app to be included.
 
 ### Apple App Store Feature Form
 

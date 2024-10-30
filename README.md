@@ -6,12 +6,21 @@ List of places where indie developers could promote their producs for free or re
 
 ### HackerNews
 
+Submit link to you product with a `Show HN` prefix in the title. If it gets required number of upvotes, it will end up in the [**show**](https://news.ycombinator.com/show) section. Check [more details](https://news.ycombinator.com/showhn.html) about the **show** section.
+
 ### Apple-Specific Press
+
+These publications write about Apple ecosystem and ocassionally do in-depth app reviews, so it's worth reaching out to them in case you think your app stands out from the cround and worth to be featured: 
+* https://www.macstories.net
+* https://9to5mac.com
 
 ### Croudsoursed Section In "Installer" Newsletter
 
+David Pierce from The Verge has a great weekly newsletter called [**Installer**](https://www.theverge.com/installer-newsletter). Among other things, it has a **Crowdsourced** section with recommendations from the community. You can try to get on that list by reaching out [via email](mailto:installer@theverge.com) or suggesting you product by commenting on a weekly Threads post done by [David](https://www.threads.net/@imdavidpierce) where he collects picks from the community.
+
 ### IndieCatalog
-https://indiecatalog.app
+
+[Indie Catalog](https://indiecatalog.app) is a collection of apps created by indie devs and you can submit your app to be included.
 
 ### Tiny Startups
 https://www.tinystartups.com

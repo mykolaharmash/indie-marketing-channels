@@ -22,28 +22,29 @@ David Pierce from The Verge has a great weekly newsletter called [**Installer**]
 
 [Indie Catalog](https://indiecatalog.app) is a collection of apps created by indie devs run by [Filip Němeček](https://nemecek.be). You can submit your app to be included.
 
-## ◈  Apple App Store Feature Form
+## ◈ Apple App Store Feature Request
 
-### App Store Ads 100$ Credit
-https://airtable.com/appnBNhh2togTpTVx/shrO5khs6PWM3nTR0/tblJdeg52MT9TMCoT
+You can [apply to be featured on the App Store](https://developer.apple.com/app-store/getting-featured/). Apple will review the application and contact you in case your app has been selected.
 
-### Reddit
-https://airtable.com/appnBNhh2togTpTVx/shrO5khs6PWM3nTR0/tblJdeg52MT9TMCoT
+## ◈ Apple Search Ads 100$ Credit
 
-### Social Medie
-hashtags
-shorts
+Apple gives a 100$ credit when you first setup an Apple Search Ads account. [See more information](https://searchads.apple.com/help/billing/0032-apple-search-ads-promo-credit).
 
-### Discord
-[iOS Dev Happy Hour](https://discord.gg/PS9929xX)
 
-### Dribbble
+## ◈ Reddit
 
-### Layers
-https://layers.to
+Each subbredit has it's own rules and tolerance level regarding self-promotion. Make sure to read the requirements in every case and do not spam.
 
-### Medium
+A few subreddits that allow self-promotion:
+[/SideProjects](https://www.reddit.com/r/SideProject/)
+[/iosapps](https://www.reddit.com/r/iosapps/)
+[/Apple](https://www.reddit.com/r/apple/)
 
-### DEV.to
 
-### ProductHunt
+## ◈ Sharing Designs
+
+Post your designs on [Dribbble](https://dribbble.com) and [Layers](https://layers.to) might bring additional eyeballs on your work.
+
+## ◈ Writing Blog Posts
+
+Both [Medium](https://medium.com) and [DEV.to](https://dev.to) have recommendations feeds and a good source of search traffic. The key here is to provide some real value with your post and only subtly plug your project when it's relevant.

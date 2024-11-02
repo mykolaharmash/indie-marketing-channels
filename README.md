@@ -14,7 +14,7 @@ Make sure to read the [Launch Guide](https://www.producthunt.com/launch), it has
 
 ## ◈ Apple-Specific Press
 
-These publications write about Apple ecosystem and ocassionally do in-depth app reviews, so it's worth reaching out to them in case you think your app stands out from the cround and worth to be featured: 
+These publications write about Apple ecosystem and ocassionally do in-depth app reviews:
 * https://www.macstories.net
 * https://9to5mac.com
 

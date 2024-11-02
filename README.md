@@ -8,6 +8,10 @@ List of places where indie developers could promote their producs for free or re
 
 Submit link to you product with a `Show HN` prefix in the title. If it gets required number of upvotes, it will end up in the [**show**](https://news.ycombinator.com/show) section. Check [more details](https://news.ycombinator.com/showhn.html) about the **show** section.
 
+## ◈ ProductHunt
+
+Make sure to read the [Launch Guide](https://www.producthunt.com/launch), it has some useful tips on how and when to launch.
+
 ## ◈ Apple-Specific Press
 
 These publications write about Apple ecosystem and ocassionally do in-depth app reviews, so it's worth reaching out to them in case you think your app stands out from the cround and worth to be featured: 

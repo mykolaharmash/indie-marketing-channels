@@ -47,7 +47,7 @@ A few subreddits that allow self-promotion:
 
 ## ◈ Sharing Designs
 
-Post your designs on [Dribbble](https://dribbble.com) and [Layers](https://layers.to) might bring additional eyeballs on your work.
+Posting your designs on [Dribbble](https://dribbble.com) and [Layers](https://layers.to) might bring additional attention to your work.
 
 ## ◈ Writing Blog Posts
 

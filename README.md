@@ -40,9 +40,9 @@ Apple gives a 100$ credit when you first setup an Apple Search Ads account. [See
 Each subbredit has it's own rules and tolerance level regarding self-promotion. Make sure to read the requirements in every case and do not spam.
 
 A few subreddits that allow self-promotion:
-[/SideProjects](https://www.reddit.com/r/SideProject/)
-[/iosapps](https://www.reddit.com/r/iosapps/)
-[/Apple](https://www.reddit.com/r/apple/)
+* [/SideProjects](https://www.reddit.com/r/SideProject/)
+* [/iosapps](https://www.reddit.com/r/iosapps/)
+* [/Apple](https://www.reddit.com/r/apple/)
 
 
 ## ◈ Sharing Designs

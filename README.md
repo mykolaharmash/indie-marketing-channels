@@ -51,4 +51,4 @@ Posting your designs on [Dribbble](https://dribbble.com) and [Layers](https://la
 
 ## ◈ Writing Blog Posts
 
-Both [Medium](https://medium.com) and [DEV.to](https://dev.to) could be a good source of search traffic. The key here is to provide some real value with your post and only subtly mention your project when it's relevant.
+[Medium](https://medium.com), [DEV.to](https://dev.to), or [daily.dev](https://daily.dev) could be good sources of search traffic. The key here is to provide some real value with your post and only subtly mention your project when it's relevant.

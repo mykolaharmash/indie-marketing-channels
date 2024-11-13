@@ -1,5 +1,5 @@
 # Indie Marketing Channels
-List of places where indie developers can promote their producs for free or at a low cost.
+List of places where indie developers can promote their products for free or at a low cost.
 
 > [!IMPORTANT]
 > Do not use this as a checklist. Not every product fits every place listed here, cherry-pick what is relevant for your product and audience you target. Mindlessly spamming will only turn people agains you and your work.

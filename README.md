@@ -2,7 +2,7 @@
 List of places where indie developers can promote their products for free or at a low cost.
 
 > [!IMPORTANT]
-> Do not use this as a checklist. Not every product suits every platform listed here, choose what's most relevant for your product and target audience. Mindlessly spamming will only harm your current and future work's reputation.
+> Don’t treat this as a checklist. Choose platforms that make sense for your product and audience. Spamming will only harm your repution.
 
 ## 💻 HackerNews
 

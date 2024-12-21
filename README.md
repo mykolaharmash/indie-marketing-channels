@@ -1,7 +1,13 @@
 # Indie Marketing Channels
 List of places where indie developers can promote their products for free or at a low cost.
 
-> [!IMPORTANT]
+![GitHub stars](https://img.shields.io/github/stars/mykolaharmash/indie-marketing-channels?style=for-the-badge&color=yellow&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtc3RhciI+PHBhdGggZD0iTTExLjUyNSAyLjI5NWEuNTMuNTMgMCAwIDEgLjk1IDBsMi4zMSA0LjY3OWEyLjEyMyAyLjEyMyAwIDAgMCAxLjU5NSAxLjE2bDUuMTY2Ljc1NmEuNTMuNTMgMCAwIDEgLjI5NC45MDRsLTMuNzM2IDMuNjM4YTIuMTIzIDIuMTIzIDAgMCAwLS42MTEgMS44NzhsLjg4MiA1LjE0YS41My41MyAwIDAgMS0uNzcxLjU2bC00LjYxOC0yLjQyOGEyLjEyMiAyLjEyMiAwIDAgMC0xLjk3MyAwTDYuMzk2IDIxLjAxYS41My41MyAwIDAgMS0uNzctLjU2bC44ODEtNS4xMzlhMi4xMjIgMi4xMjIgMCAwIDAtLjYxMS0xLjg3OUwyLjE2IDkuNzk1YS41My41MyAwIDAgMSAuMjk0LS45MDZsNS4xNjUtLjc1NWEyLjEyMiAyLjEyMiAwIDAgMCAxLjU5Ny0xLjE2eiIvPjwvc3ZnPg==)
+![GitHub issues](https://img.shields.io/github/issues/mykolaharmash/indie-marketing-channels?style=for-the-badge&color=green&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtYm9vayI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiLz48L3N2Zz4=)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mykolaharmash/indie-marketing-channels?style=for-the-badge&color=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtZ2l0LXB1bGwtcmVxdWVzdCI+PGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIvPjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSIzIi8+PHBhdGggZD0iTTEzIDZoM2EyIDIgMCAwIDEgMiAydjciLz48bGluZSB4MT0iNiIgeDI9IjYiIHkxPSI5IiB5Mj0iMjEiLz48L3N2Zz4=)
+
+---
+
+> [!IMPORTANT]  
 > Do not use this as a checklist. Not every product suits every platform listed here, choose what's most relevant for your product and target audience. Mindlessly spamming will only harm your current and future work's reputation.
 
 ## 💻 HackerNews
@@ -34,7 +40,6 @@ You can [apply to be featured on the App Store](https://developer.apple.com/app-
 
 Apple offers $100 credit when you first setup an Apple Search Ads account. [Learn more](https://searchads.apple.com/help/billing/0032-apple-search-ads-promo-credit).
 
-
 ## 📣 Reddit
 
 Each subbredit has its own rules and tolerance level regarding self-promotion. Make sure to read the guidelines for each one and avoid spamming.
@@ -43,7 +48,6 @@ Here are a few subreddits that allow self-promotion:
 - [/SideProjects](https://www.reddit.com/r/SideProject/)
 - [/iosapps](https://www.reddit.com/r/iosapps/)
 - [/Apple](https://www.reddit.com/r/apple/)
-
 
 ## 🎨 Sharing Designs
 

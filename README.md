@@ -34,7 +34,6 @@ You can [apply to be featured on the App Store](https://developer.apple.com/app-
 
 Apple offers $100 credit when you first setup an Apple Search Ads account. [Learn more](https://searchads.apple.com/help/billing/0032-apple-search-ads-promo-credit).
 
-
 ## 📣 Reddit
 
 Each subbredit has its own rules and tolerance level regarding self-promotion. Make sure to read the guidelines for each one and avoid spamming.
@@ -43,7 +42,6 @@ Here are a few subreddits that allow self-promotion:
 - [/SideProjects](https://www.reddit.com/r/SideProject/)
 - [/iosapps](https://www.reddit.com/r/iosapps/)
 - [/Apple](https://www.reddit.com/r/apple/)
-
 
 ## 🎨 Sharing Designs
 

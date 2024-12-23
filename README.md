@@ -4,11 +4,11 @@ List of places where indie developers can promote their products for free or at 
 > [!IMPORTANT]
 > Do not use this as a checklist. Not every product suits every platform listed here, choose what's most relevant for your product and target audience. Mindlessly spamming will only harm your current and future work's reputation.
 
-## 💻 [HackerNews](guides/hacker-news.md)
+## 💻 [Hacker News](guides/hacker-news.md)
 
 Submit your product link with a `Show HN` prefix in the title. If it receives enough upvotes, it will appear in the [**Show**](https://news.ycombinator.com/show) section. For more information, check the [guidelines](https://news.ycombinator.com/showhn.html) for **Show HN** posts.
 
-## 🚀 [ProductHunt](guides/product-hunt.md)
+## 🚀 [Product Hunt](guides/product-hunt.md)
 
 Be sure to read the [Launch Guide](https://www.producthunt.com/launch) for valuable tips on how and when to launch your product.
 

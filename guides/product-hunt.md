@@ -4,8 +4,6 @@
 
 Product Hunt is a hub for early adopters, makers, and innovators who love discovering new products. To make the most of your launch, share something that's new, exciting, and ready for people to try.
 
-Here's what you need to know:
-
 ## 🛠️ What to Post
 
 Post something new and exciting. Whether it's an app, a tool, or something entirely different, the Product Hunt community values innovation. Your prodcut should be:

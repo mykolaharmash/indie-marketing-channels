@@ -5,8 +5,8 @@ List of places where indie developers can promote their products for free or at 
 > Do not use this as a checklist. Not every product suits every platform listed here, choose what's most relevant for your product and target audience. Mindlessly spamming will only harm your current and future work's reputation.
 
 ## 📚 Guides
-- [HackerNews Guide](guides/hacker-news.md)
-- [ProductHunt Guide](guides/product-hunt.md)
+- [Hacker News Guide](guides/hacker-news.md)
+- [Product Hunt Guide](guides/product-hunt.md)
 - [Apple-Specific Press Guide](guides/apple-specific-press.md)
 - [Installer Newsletter Guide](guides/installer-newsletter.md)
 - [IndieCatalog Guide](guides/indie-catalog.md)

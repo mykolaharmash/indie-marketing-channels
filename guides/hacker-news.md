@@ -3,6 +3,7 @@
 ## 🖋️ Writing Your Title
 
 To successfully launch on Hacker News, start by posting something you've made that people can try right away, without needing invites or waiting.  
+
 Your title must start with **`Show HN:`** and then tell people what you made. Avoid exaggerated or overly promotional titles.
 
 ### ✅ Strong Examples

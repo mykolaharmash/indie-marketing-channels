@@ -16,8 +16,6 @@ List of places where indie developers can promote their products for free or at 
 - [Sharing Designs Guide](guides/sharing-designs.md)
 - [Writing Blog Posts Guide](guides/writing-blog-posts.md)
 
----
-
 ## 💻 HackerNews
 
 Submit your product link with a `Show HN` prefix in the title. If it receives enough upvotes, it will appear in the [**Show**](https://news.ycombinator.com/show) section. For more information, check the [guidelines](https://news.ycombinator.com/showhn.html) for **Show HN** posts.

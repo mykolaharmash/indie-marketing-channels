@@ -30,7 +30,7 @@ David Pierce from The Verge runs a fantastic weekly newsletter called [**Install
 
 You can [apply to be featured on the App Store](https://developer.apple.com/app-store/getting-featured/). Apple will review your application and reach out if your app is selected for a feature.
 
-## 💵 Apple Search Ads 100$ Credit
+## 💵 Apple Search Ads $100 Credit
 
 Apple offers $100 credit when you first setup an Apple Search Ads account. [Learn more](https://searchads.apple.com/help/billing/0032-apple-search-ads-promo-credit).
 
